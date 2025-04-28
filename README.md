@@ -47,6 +47,7 @@ Write a testbench to apply one-hot input combinations and monitor outputs.
 Simulate and verify the output matches the expected binary values from the truth table.
 **PROGRAM**
 
+
 ![program](https://github.com/user-attachments/assets/a92fec13-a23d-414d-999a-8e05f5bf6f41)
 
 
